@@ -14,8 +14,6 @@ A proposta não é apenas armazenar materiais, mas também criar um espaço para
     Facilitar revisões futuras
     Desenvolver uma base sólida em gerenciamento de projetos
     Aplicar conceitos em cenários reais
-## 📂 Estrutura do Repositório <br>
-📦 Gerenciamento-de-Projetos<br>
 
 ## 🗂️ Estrutura do Repositório
 
